@@ -11,8 +11,19 @@ integration code for the platform.
 
 Features
 --------
+Spring Cloud is a framework for building distributed systems. It provides a number of tools and services that make it easy for developers to build and deploy cloud-native applications. Spring Cloud provides a number of features that make it a popular choice for building distributed systems, such as:
+-Service Discovery: Spring Cloud provides a service discovery mechanism that makes it easy for services to discover and communicate with each other.
 
-TO DO
+-Load Balancing: Spring Cloud provides load balancing capabilities that make it easy for developers to distribute the load across multiple instances of a service.
+
+-Config Server: Spring Cloud provides a config server that makes it easy for developers to manage configuration settings for their applications.
+
+-Circuit Breaker: Spring Cloud provides a circuit breaker mechanism that makes it easy for developers to handle failures in their applications.
+
+-Distributed Tracing: Spring Cloud provides a distributed tracing mechanism that makes it easy for developers to trace requests and responses across multiple services.
+
+
+
 
 QuickStart
 ---------
