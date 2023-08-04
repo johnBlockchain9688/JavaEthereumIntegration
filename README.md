@@ -3,5 +3,5 @@
 [![codecov](https://codecov.io/gh/web3j/web3j/branch/master/graph/badge.svg?token=a4G9ITI6CU)](https://codecov.io/gh/web3j/web3j)
 [![Discord](https://img.shields.io/discord/779382027614158919?label=discord)](https://discord.gg/A9UXfPF2tS)
 # JEI Java Ethereum Integration
-JavaEthereumIntegration is a project aimed to deveop a cloud infracturcter to call a generic Blockchain EVM
-SmartContract
+Jei Java Ethereum Integration is a project aimed to deveop a cloud infrastructure to integrate Java with an EVM Blockchain 
+
